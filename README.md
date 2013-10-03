@@ -3,7 +3,7 @@ notate
 
 Add informative annotation to what you read.
 
-
+Definition from 《Oxford English Dictionary》(oed.com):
 >notate, v.
 >Pronunciation:  Brit.	 /nə(ʊ)ˈteɪt/ , U.S. /ˈnoʊˌteɪt/
 >
