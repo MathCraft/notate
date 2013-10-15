@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "name": "Notate",
+  "description": "This extension add useful annotations to Web pages.",
   "version": "1.0",
 
   "browser_action": {
